@@ -1,0 +1,7 @@
+C:\Users\iqqlabs\source\repos\estudiando como weon\estudiando como weon\bin\Debug\estudiando como weon.exe.config
+C:\Users\iqqlabs\source\repos\estudiando como weon\estudiando como weon\bin\Debug\estudiando como weon.exe
+C:\Users\iqqlabs\source\repos\estudiando como weon\estudiando como weon\bin\Debug\estudiando como weon.pdb
+C:\Users\iqqlabs\source\repos\estudiando como weon\estudiando como weon\obj\Debug\estudiando como weon.csprojAssemblyReference.cache
+C:\Users\iqqlabs\source\repos\estudiando como weon\estudiando como weon\obj\Debug\estudiando como weon.csproj.CoreCompileInputs.cache
+C:\Users\iqqlabs\source\repos\estudiando como weon\estudiando como weon\obj\Debug\estudiando como weon.exe
+C:\Users\iqqlabs\source\repos\estudiando como weon\estudiando como weon\obj\Debug\estudiando como weon.pdb
